@@ -1,6 +1,6 @@
 # Mapping Determinants of Economic Self-Sufficiency and Well-Being in Philadelphia
 
-This code was written as part of the Azavea Summer of Maps Fellowship for Congreso de Latinos Unidos, Inc. More information about this project can be found here. 
+This code was written as part of the Azavea Summer of Maps Fellowship for Congreso de Latinos Unidos, Inc. More information about this project and a selection of final produced maps can be found [here](https://www.summerofmaps.com/projects/2019-congreso-de-latinos-unidos).
 
 These R scripts were used to:
 
